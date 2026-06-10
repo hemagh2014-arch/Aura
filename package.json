@@ -1,0 +1,14 @@
+{
+  "name": "discord-voice-bot",
+  "version": "0.1.0",
+  "description": "24/7 Discord voice channel bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.1.4"
+  }
+}
